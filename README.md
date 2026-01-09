@@ -5,6 +5,7 @@ This repository contains my personal Data Analyst projects using Power BI, MetaD
 
 ## Tools
 - Power BI Desktop
+- MetaData
 - PostgreSQL
 - SQL
 
